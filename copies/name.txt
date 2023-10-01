@@ -7,3 +7,6 @@ Untracked files:
 	name.txt
 
 nothing added to commit but untracked files present (use "git add" to track)
+[master c7fac4a] new text file
+ 1 file changed, 9 insertions(+)
+ create mode 100644 copies/name.txt
